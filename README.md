@@ -1,5 +1,3 @@
 # ManojList
 
-List used along with some request blocker like ublock origin or Request Policy to block third party requests but at the same time allow some request which are essential for the website
-
-Please visit the website http://themanojgarg.github.io/ManojList for more details.
+List used along with some http request blocker like ublock origin or Request Policy to block all third party http requests and then just allowing selective requests to be made which are needed for user experience.
